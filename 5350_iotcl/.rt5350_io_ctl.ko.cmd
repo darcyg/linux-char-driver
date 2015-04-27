@@ -1,0 +1,1 @@
+cmd_/root/RT288x_SDK/ioctl/rt5350_io_ctl.ko := mipsel-linux-ld  -m elf32ltsmip -r -o /root/RT288x_SDK/ioctl/rt5350_io_ctl.ko /root/RT288x_SDK/ioctl/rt5350_io_ctl.o /root/RT288x_SDK/ioctl/rt5350_io_ctl.mod.o
